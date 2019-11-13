@@ -1,1 +1,1 @@
-# struts
+# Ticket Manager with Struts Framework
